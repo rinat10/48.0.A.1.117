@@ -2,11 +2,11 @@ kernel source for Sony Xperia XA1 Plus
 =========================================
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | 2,3GHz Octa-Core MT6757
-GPU     | Mali - 450 MP4
-Memory  | 3GB RAM
+CPU     | 2,3 GHz MediaTek MT6757
+GPU     | Mali-T880 MP2
+Memory  | 3 GB RAM
 Shipped Android Version | 7.1
-Storage | 32GB
-Battery | 3 430 mAh
+Storage | 32 GB
+Battery | 3430 mAh
 Display | 5,5"  1080 x 1920 px
-Camera  | 23MPx + 8Mpx, LED Flash
+Camera  | 23 MPx + 8 Mpx, LED Flash
