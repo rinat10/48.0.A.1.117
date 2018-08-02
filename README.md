@@ -4,7 +4,7 @@ Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | 2,3GHz Octa-Core MT6757
 GPU     | Mali - 450 MP4
-Memory  | 1GB RAM
+Memory  | 3GB RAM
 Shipped Android Version | 7.1
 Storage | 32GB
 Battery | 3 430 mAh
